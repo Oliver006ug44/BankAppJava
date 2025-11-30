@@ -1,0 +1,2 @@
+In this activity, you will create the Codingal Banking Services application.
+The application supports adding a user, modifying an existing user, checking bank balance, updating bank balance and summary of all accounts.
